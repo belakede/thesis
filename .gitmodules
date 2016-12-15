@@ -1,0 +1,12 @@
+[submodule "thesis-core"]
+	path = thesis-core
+	url = git@github.com:belakede/thesis-core.git
+[submodule "thesis-channel"]
+	path = thesis-channel
+	url = git@github.com:belakede/thesis-channel.git
+[submodule "thesis-server"]
+	path = thesis-server
+	url = git@github.com:belakede/thesis-server.git
+[submodule "thesis-client"]
+	path = thesis-client
+	url = git@github.com:belakede/thesis-client.git
